@@ -7,7 +7,13 @@ Bienvenido al repositorio de la aplicación de Rick and Morty Character Viewer h
 Para clonar el repositorio, utiliza el siguiente comando:
 
 ```bash
-git clone https://github.com/Wilpoymu/prueba.git
+git clone https://github.com/DavidLassoG/prueba-front.git
+```
+
+Una vez que hayas clonado el repositorio, entra a la rama llamada `feature/feature_wilfer` con el siguiente comando:
+
+```bash
+git checkout feature/feature_wilfer
 ```
 
 Luego, instala las dependencias necesarias con el siguiente comando:
